@@ -98,7 +98,7 @@ Fuerza el orden de los valores de los productos.
 ====
 Permite establecer una BD por defecto
 
-Blueprints
+Blueprints:
 ==========
 - Implementación [Google Tag Manager](https://developers.google.com/tag-manager)
 - Implementación [Google Enhanced Ecommerce](https://developers.google.com/tag-manager/enhanced-ecommerce)
